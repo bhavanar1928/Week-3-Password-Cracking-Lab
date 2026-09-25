@@ -1,0 +1,14 @@
+# W3-PM2: Password Cracking with Networkwalks Tools
+
+## Tools Used
+- Networkwalks Hash Calculator
+- Networkwalks Password Cracker
+
+## Objective
+To extract the hash from a password-protected PDF and recover its password.
+
+## Result
+Successfully completed the password recovery lab.
+
+## Learning Outcome
+Learned about password hashes and password recovery using online tools.
